@@ -1,4 +1,4 @@
-#if else
+#if else without arguments
 def voting():
     age=int(input())
     if age>=18:
